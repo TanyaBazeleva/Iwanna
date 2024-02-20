@@ -6,3 +6,5 @@ def factorial(n):
 
 # n = int(input())
 # print(factorial(n))
+def dadavannya(x,y):
+    return (x+y)
